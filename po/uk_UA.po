@@ -314,10 +314,10 @@ msgid "Indonesian"
 msgstr "Індонезійська"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Японська"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Китайська - спрощена"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Угорська"
